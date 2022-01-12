@@ -1,0 +1,11 @@
+#Anotações rápidas curso https://pythonando.com.br/evento/?identificacao=2
+
+https://pythonando.com.br/media/recursos_aulas/PYSTACK_WEEK_2.0__aula_1__1.pdf
+
+#Criar e Ativar venv
+python -m venv venv
+venv\Scripts\Activate
+
+
+#Rodar servidor
+python manage.py runserver
